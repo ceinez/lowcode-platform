@@ -1,0 +1,15 @@
+{
+  "name": "@lowcode/renderer",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@lowcode/shared": "*",
+    "@lowcode/bridge": "*",
+    "vue": "^3.5.22"
+  }
+}

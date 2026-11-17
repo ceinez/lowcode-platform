@@ -1,0 +1,16 @@
+{
+  "name": "@lowcode/editor",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@lowcode/shared": "*",
+    "@lowcode/bridge": "*",
+    "pinia": "^3.0.3",
+    "vue": "^3.5.22"
+  }
+}
