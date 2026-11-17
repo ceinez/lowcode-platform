@@ -1,4 +1,4 @@
-# 威享佳低代码平台 — 完整项目架构（含后端 + AI）
+# FlowPage — 完整项目架构（含后端 + AI）
 
 > 本文档补充 [tech-design.md](./tech-design.md)（前端技术方案）与 [PRD.md](./PRD.md)，补齐**后端与 AI 层**，形成完整可落地的项目。
 > 更新时间：2026-09。结合 2026 年生成式 UI 技术趋势（A2UI、GenUI、Structured Output）。

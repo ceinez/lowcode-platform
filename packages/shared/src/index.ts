@@ -5,7 +5,7 @@ export const ColorSchema = z
   .regex(/^#[0-9a-fA-F]{6}$/, '请输入六位十六进制颜色')
 
 export const NoticePropsSchema = z.object({
-  text: z.string().max(500).default('欢迎来到威享佳活动专区'),
+  text: z.string().max(500).default('欢迎来到 FlowPage 活动专区'),
   backgroundColor: ColorSchema.default('#fff8e9'),
   textColor: ColorSchema.default('#665533'),
 })

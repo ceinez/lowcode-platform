@@ -103,7 +103,7 @@ onBeforeUnmount(() => bridge?.dispose())
   <div class="editor">
     <header>
       <div>
-        <strong>威享佳</strong><span class="subtitle">活动页工作台</span>
+        <strong>FlowPage</strong><span class="subtitle">活动页工作台</span>
       </div>
       <button class="primary" @click="save">保存草稿</button>
     </header>
